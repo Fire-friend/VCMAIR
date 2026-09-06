@@ -1,0 +1,4 @@
+-r requirements.txt
+lpips==0.1.4
+tensorboard==2.18.0
+torchvision==0.19.1
